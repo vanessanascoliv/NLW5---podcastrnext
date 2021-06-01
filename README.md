@@ -5,6 +5,7 @@ Projeto  desenvolvido na semana NLW05 da Rocketseat.
 O foco foi criar uma aplicação Web para ouvir PodCastr.
 
 ## Tecnologias utilizadas
+ - HTML / SCSS
  - ReactJS
  - NextJS
  - Typescript
