@@ -1,0 +1,23 @@
+.headerContainer {
+    background: var(--white);
+    height: 6.5rem;
+
+    display: flex;
+    align-items: center;
+    padding: 2rem 4rem; //2rem vertical e 4rem horizontal
+
+    border-bottom: 1px solid var(--gray-100);
+
+    p {
+        margin-left: 2rem;
+        padding: 0.25rem 0 0.25rem 2rem; //em cima, direita, em baixo esquuerda
+        border-left: 1px solid var(--gray-100);
+    }
+
+    span {
+        margin-left: auto;//joga o texto para a direita deixando todo espaço disponivel a esquerda
+        text-transform: capitalize; // a 1º letra de cada palavra fica maiscula
+    }
+
+
+}
